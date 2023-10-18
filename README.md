@@ -9,7 +9,7 @@ Steps:
 4. Copy the generated `sparkjava-hello-world-1.0.war` to the Tomcat `webapps` folder
 5. Start Tomcat by running `bin\startup.bat` (or `bin\startaup.sh` for Linux)
 5. Tomcat will automatically deploy the war
-6. Open [http://localhost:8080/sparkjava-hello-world-1.0/hello](http://localhost:8080/sparkjava-hello-world-1.0/war) in your browser
+6. Open (http://localhost:8080/sparkjava-hello-world-1.0/war) in your browser
 
 1.git clone 
 
